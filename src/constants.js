@@ -25,9 +25,9 @@ import javaLogo from './assets/tech_logo/java.png';
 
 
 // Education Section Logo's
-import glaLogo from './assets/education_logo/gla_logo.png';
-import bsaLogo from './assets/education_logo/bsa_logo.png';
-import vpsLogo from './assets/education_logo/vps_logo.png';
+import glaLogo from './assets/education_logo/schllogo.jpg';
+import bsaLogo from './assets/education_logo/schllogo.jpg';
+import vpsLogo from './assets/education_logo/schllogo.jpg';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
@@ -101,38 +101,39 @@ export const SkillsInfo = [
     {
       id: 0,
       img: glaLogo,
-      school: "GLA University, Mathura",
-      date: "Sept 2022 - July 2024",
-      grade: "7.81 CGPA",
-      desc: "I have completed my Master's degree (MCA) in Computer Applications from GLA University, Mathura. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
-      degree: "Master of Computer Applications - MCA",
+      school: "Indira Gandhi University - Delhi",
+      date: "Jan 2025 - Jan 2028",
+      grade: "N/A",
+      desc: "I am pursuing my Bachelor’s degree (BCA) in Computer Applications from IGNOU University (2025–2028 session). During this program, I am building a strong foundation in programming, software development, and computer science principles. I am studying courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I also aim to participate in workshops and technical events to further enhance my skills and knowledge. My experience at IGNOU is helping me shape my technical abilities and preparing me for professional growth in the IT field.",
+      degree: "Bachelor in Computer Applications - BCA",
     },
     {
       id: 1,
       img: bsaLogo,
-      school: "BSA College, Mathura",
-      date: "Sept 2018 - Aug 2021",
-      grade: "73.2%",
-      desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
-      degree: "Bachelor of Science - BSC (Computer Science)",
+      school: "Ignou Delhi",
+      date: "Jul 2024 - Aug 2025",
+      grade: "A",
+      desc: "I am pursuing my Bachelor’s degree (BCA) in Computer Applications from IGNOU University (2025–2028 session). During this program, I am building a strong foundation in programming, software development, and computer science principles. I am studying courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I also aim to participate in workshops and technical events to further enhance my skills and knowledge. My experience at IGNOU is helping me shape my technical abilities and preparing me for professional growth in the IT field.",
+      degree: "Diploma in Web Developement",
     },
     {
       id: 2,
       img: vpsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2017 - March 2018",
-      grade: "78%",
-      desc: "I completed my class 12 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-      degree: "CBSE(XII) - PCM with Computer Science",
+      school: "Vishal Bharti Public School Pitampura, New Delhi",
+      date: "Apr 2022 - March 2023",
+      grade: "80%",
+      desc: "I completed my class 12 education from Vishal BHarti Public School, Govardhan, under the CBSE board, where I studied Pol Sci, Econimics,English,Hindi and Physical Education.",
+      degree: "CBSE(XII) - Arts with economics",
     },
     {
-      id: 3,
+     id: 3,
       img: vpsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2015 - March 2016",
-      grade: "87.5%",
-      desc: "I completed my class 10 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Science with Computer.",
-      degree: "CBSE(X), Science with Computer Application",
+      school: "Vishal Bharti Public School Pitampura, New Delhi",
+      date: "Apr 2020 - March 2021",
+      grade: "61%",
+      desc: "I completed my class 12 education from Vishal BHarti Public School, Govardhan, under the CBSE board, where I studied Pol Sci, Econimics,English,Hindi and Physical Education.",
+      degree: "CBSE(IX) - Arts with economics",
+
     },
   ];
   

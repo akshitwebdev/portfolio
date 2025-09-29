@@ -2,7 +2,7 @@ import React from 'react'
 import { Typewriter } from 'react-simple-typewriter'
 import ReactTypingEffect from 'react-typing-effect'
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/Pass.jpg'
+import profileImage from '../../assets/user.webp'
 
 function About() {
   return (
