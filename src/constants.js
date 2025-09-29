@@ -140,7 +140,7 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "GitHub Profile Detective",
+      title: "Charity website",
       description:
         "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
       image: githubdetLogo,
@@ -150,7 +150,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "CS Prep",
+      title: "E-Commerce Website",
       description:
         "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       image: csprepLogo,
@@ -160,7 +160,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Movie Recommendation App",
+      title: "University Management by Java",
       description:
         "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: movierecLogo,
@@ -170,7 +170,7 @@ export const SkillsInfo = [
     },
     {
       id: 3,
-      title: "Email Validator NPM Package",
+      title: "Gym Website",
       description:
         "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
       image: npmLogo,
@@ -180,7 +180,7 @@ export const SkillsInfo = [
     },
     {
       id: 4,
-      title: "Task Reminder Chrome Extension Tool",
+      title: "Universiy management",
       description:
         "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
       image: taskremLogo,
@@ -190,7 +190,7 @@ export const SkillsInfo = [
     },
     {
       id: 5,
-      title: "Webverse Digital",
+      title: "Chartiy website",
       description:
         "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
       image: webverLogo,
@@ -200,7 +200,7 @@ export const SkillsInfo = [
     },
     {
       id: 6,
-      title: "Coding Master",
+      title: "gym website",
       description:
         "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
       image: cmLogo,
@@ -210,7 +210,7 @@ export const SkillsInfo = [
     },
     {
       id: 7,
-      title: "Image Search App",
+      title: "Insta Login page",
       description:
         "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
       image: imagesearchLogo,
@@ -220,7 +220,7 @@ export const SkillsInfo = [
     },
     {
       id: 8,
-      title: "Image Background Remover",
+      title: "e-commerce",
       description:
         "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
       image: removebgLogo,
